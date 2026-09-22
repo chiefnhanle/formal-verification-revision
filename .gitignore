@@ -1,0 +1,13 @@
+# Haskell compiled artifacts
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+
+# Compiled binaries (from ghc; matches ./hello, etc.)
+hello
+
+# Build tool output
+dist/
+dist-newstyle/
+.stack-work/
